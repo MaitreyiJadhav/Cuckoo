@@ -1,0 +1,19 @@
+.bg-light{
+    background-color: #7AC4CC !important;
+}
+
+
+.btn-outline-primary
+{
+    background-color: #f07422;
+    border-color: transparent;
+    color: white;
+}
+.navbar-expand-lg .navbar-collapse 
+{
+    justify-items: flex-end;
+}
+img{
+    width:200px;
+    height:auto;
+}

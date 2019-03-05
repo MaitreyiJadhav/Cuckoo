@@ -1,0 +1,19 @@
+.navbar-nav img{
+    width: 25px;
+}
+.navbar-brand img{
+    height:auto;
+    width:200px;
+    background-color:#616161;
+    padding: 10px;
+}
+
+nav{
+    background-color: #7ac4cc;
+    padding: 0;
+}
+
+a.navbar-brand{
+    padding: 0;
+}
+
